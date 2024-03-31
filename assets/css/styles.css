@@ -1,0 +1,11 @@
+body {
+    background-image: url="assets/img/card1.jpg";
+    /* Optionally, you can set additional properties like background-size, background-repeat, etc. */
+    background-size: cover;
+    /* This property ensures that the background image covers the entire viewport */
+    background-repeat: no-repeat;
+    /* This property prevents the background image from repeating */
+}
+#myContainer{
+    background-image: url("assets/img/card1.jpg");
+}
